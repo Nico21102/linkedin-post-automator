@@ -1,12 +1,12 @@
 {
-  "bio"                : "I am Alex Smith, a Senior Data Scientist based in San Francisco. With over 10 years of experience in the tech industry, I've witnessed the rise and transformation of various technologies. On LinkedIn, I aim to share funny programming jokes providing value to my network of professionals and enthusiasts alike. I pride myself on bridging the gap between technical complexities and everyday understanding. Given the subsequent scraped content, I'd appreciate assistance in crafting a succinct, engaging, and informative post that resonates with my LinkedIn audience.",
-  "gpt_preamble"       : "My goal is to share a short hilarious programmer joke. To help you generate a relevant and resonating funny joke post, I provided a short bio about myself. Analyze and optionally use the scraped text from latest happenings in the industry. I'd like the post to be funny and creative. Include emoticons. Given this, please help me construct a LinkedIn post that is hilariously funny.",
+  "bio"                : "I am Nico van Rooyen, a Cyber security researcher based in Amsterdam. With over 10 years of experience in the cyber security industry. On LinkedIn, cyber security insights on product offerings including vCISO services, penetration testing and DevSecOps, providing value to my network of professionals and enthusiasts alike. I pride myself on bridging the gap between technical complexities and everyday understanding. Given the subsequent scraped content, I'd appreciate assistance in crafting a succinct, engaging, and informative post that resonates with my LinkedIn audience.",
+  "gpt_preamble"       : "My goal is to share insights on what is happening in the cyber security industry with a main focus on Coverns, Risk, Compliance, DevSecOps and penetration testing. To help you generate a relevant and resonating  post, I provided a short bio about myself. Analyze and optionally use the scraped text from latest happenings in the industry. I'd like the post to be informative and easy to read and understand. Include emoticons. Given this, please help me construct a LinkedIn post that is industry relevant and insightful.",
   "gpt_token_limit"    : 250,
-  "open_ai_api_key"    : "get_this_key_from_open_ai",
+  "open_ai_api_key"    : "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",
 
   "cookies": {
-    "JSESSIONID"       : "from_browser_logged_in_cookies, ex: ajax:123456789012345678",
-    "li_at"            : "from_browser_logged_in_cookies"
+    "JSESSIONID"       : "ajax:3836526558476363944",
+    "li_at"            : "AQEDAQwsRdQCH1HAAAABi6UuF6MAAAGMFg8IT1YAUTg2h0Xyqpon8oZD0g35Z4jv9LCyKkkcLl8bv6ES7tEDtqAly3XmYEma9TYJv28XWa0ywrh_Qg2LaGdukgnPJWw--cXDgJ_60OkMuqqo6Q2fb6xg"
   },
 
   "hour_interval"      : 24,
@@ -15,7 +15,7 @@
 
   "scrape_char_limit"  : 800,
   "websites": [
-    "https://www.example1.com/",
-    "https://www.example2.com/"
+    "https://hollandcybersec.nl",
+    "https://www.cyberus.nl/en-gb"
   ]
 }
